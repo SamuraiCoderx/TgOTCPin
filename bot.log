@@ -1,0 +1,88 @@
+2026-11-11 16:10:35,350 - database - INFO - Database initialized successfully at bot_data.db
+2026-11-11 16:10:36,545 - __main__ - INFO - Starting Telegram Star Pin Bot polling...
+2026-11-11 16:10:37,278 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot9151651281:AAEKzJQdmCs_bLFIhHcr_jpVRPayTZtWc7g/getMe "HTTP/1.1 200 OK"
+2026-11-11 16:10:37,642 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot9151651281:AAEKzJQdmCs_bLFIhHcr_jpVRPayTZtWc7g/setMyCommands "HTTP/1.1 200 OK"
+2026-11-11 16:10:37,840 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot9151651281:AAEKzJQdmCs_bLFIhHcr_jpVRPayTZtWc7g/getMe "HTTP/1.1 200 OK"
+2026-11-11 16:10:37,845 - __main__ - INFO - Bot commands menu registered for @GramsGc_PinRobot
+2026-11-11 16:10:37,846 - __main__ - INFO - Auto-unpin background worker started.
+2026-11-11 16:10:37,848 - __main__ - INFO - 5-minute cycle reminder worker started.
+2026-11-11 16:10:38,066 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot9151651281:AAEKzJQdmCs_bLFIhHcr_jpVRPayTZtWc7g/deleteWebhook "HTTP/1.1 200 OK"
+2026-11-11 16:10:38,073 - telegram.ext.Application - INFO - Application started
+2026-11-11 16:10:48,710 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot9151651281:AAEKzJQdmCs_bLFIhHcr_jpVRPayTZtWc7g/getUpdates "HTTP/1.1 200 OK"
+2026-11-11 16:10:58,961 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot9151651281:AAEKzJQdmCs_bLFIhHcr_jpVRPayTZtWc7g/getUpdates "HTTP/1.1 200 OK"
+2026-11-11 16:11:09,155 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot9151651281:AAEKzJQdmCs_bLFIhHcr_jpVRPayTZtWc7g/getUpdates "HTTP/1.1 200 OK"
+2026-11-11 16:11:20,048 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot9151651281:AAEKzJQdmCs_bLFIhHcr_jpVRPayTZtWc7g/getUpdates "HTTP/1.1 200 OK"
+2026-11-11 16:11:30,679 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot9151651281:AAEKzJQdmCs_bLFIhHcr_jpVRPayTZtWc7g/getUpdates "HTTP/1.1 200 OK"
+2026-11-11 16:11:43,181 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot9151651281:AAEKzJQdmCs_bLFIhHcr_jpVRPayTZtWc7g/getUpdates "HTTP/1.1 200 OK"
+2026-11-11 16:13:31,296 - database - INFO - Database initialized successfully at bot_data.db
+2026-11-11 16:13:32,197 - __main__ - INFO - Starting Telegram Star Pin Bot polling...
+2026-11-11 16:13:33,109 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot9151651281:AAEKzJQdmCs_bLFIhHcr_jpVRPayTZtWc7g/getMe "HTTP/1.1 200 OK"
+2026-11-11 16:13:33,569 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot9151651281:AAEKzJQdmCs_bLFIhHcr_jpVRPayTZtWc7g/setMyCommands "HTTP/1.1 200 OK"
+2026-11-11 16:13:33,829 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot9151651281:AAEKzJQdmCs_bLFIhHcr_jpVRPayTZtWc7g/getMe "HTTP/1.1 200 OK"
+2026-11-11 16:13:33,833 - __main__ - INFO - Bot commands menu registered for @GramsGc_PinRobot
+2026-11-11 16:13:33,833 - __main__ - INFO - Auto-unpin background worker started.
+2026-11-11 16:13:33,835 - __main__ - INFO - 5-minute cycle reminder worker started.
+2026-11-11 16:13:34,088 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot9151651281:AAEKzJQdmCs_bLFIhHcr_jpVRPayTZtWc7g/deleteWebhook "HTTP/1.1 200 OK"
+2026-11-11 16:13:34,101 - telegram.ext.Application - INFO - Application started
+2026-11-11 16:13:44,827 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot9151651281:AAEKzJQdmCs_bLFIhHcr_jpVRPayTZtWc7g/getUpdates "HTTP/1.1 200 OK"
+2026-11-11 16:13:55,301 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot9151651281:AAEKzJQdmCs_bLFIhHcr_jpVRPayTZtWc7g/getUpdates "HTTP/1.1 200 OK"
+2026-11-11 16:14:05,555 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot9151651281:AAEKzJQdmCs_bLFIhHcr_jpVRPayTZtWc7g/getUpdates "HTTP/1.1 200 OK"
+2026-11-11 16:14:16,259 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot9151651281:AAEKzJQdmCs_bLFIhHcr_jpVRPayTZtWc7g/getUpdates "HTTP/1.1 200 OK"
+2026-11-11 16:14:26,580 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot9151651281:AAEKzJQdmCs_bLFIhHcr_jpVRPayTZtWc7g/getUpdates "HTTP/1.1 200 OK"
+2026-11-11 16:14:36,840 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot9151651281:AAEKzJQdmCs_bLFIhHcr_jpVRPayTZtWc7g/getUpdates "HTTP/1.1 200 OK"
+2026-11-11 16:14:47,365 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot9151651281:AAEKzJQdmCs_bLFIhHcr_jpVRPayTZtWc7g/getUpdates "HTTP/1.1 200 OK"
+2026-11-11 16:14:57,612 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot9151651281:AAEKzJQdmCs_bLFIhHcr_jpVRPayTZtWc7g/getUpdates "HTTP/1.1 200 OK"
+2026-11-11 16:15:07,866 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot9151651281:AAEKzJQdmCs_bLFIhHcr_jpVRPayTZtWc7g/getUpdates "HTTP/1.1 200 OK"
+2026-11-11 16:15:18,284 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot9151651281:AAEKzJQdmCs_bLFIhHcr_jpVRPayTZtWc7g/getUpdates "HTTP/1.1 200 OK"
+2026-11-11 16:15:28,583 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot9151651281:AAEKzJQdmCs_bLFIhHcr_jpVRPayTZtWc7g/getUpdates "HTTP/1.1 200 OK"
+2026-11-11 16:15:38,865 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot9151651281:AAEKzJQdmCs_bLFIhHcr_jpVRPayTZtWc7g/getUpdates "HTTP/1.1 200 OK"
+2026-11-11 16:15:49,152 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot9151651281:AAEKzJQdmCs_bLFIhHcr_jpVRPayTZtWc7g/getUpdates "HTTP/1.1 200 OK"
+2026-11-11 16:15:59,398 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot9151651281:AAEKzJQdmCs_bLFIhHcr_jpVRPayTZtWc7g/getUpdates "HTTP/1.1 200 OK"
+2026-11-11 16:16:09,645 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot9151651281:AAEKzJQdmCs_bLFIhHcr_jpVRPayTZtWc7g/getUpdates "HTTP/1.1 200 OK"
+2026-11-11 16:16:19,893 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot9151651281:AAEKzJQdmCs_bLFIhHcr_jpVRPayTZtWc7g/getUpdates "HTTP/1.1 200 OK"
+2026-11-11 16:16:30,140 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot9151651281:AAEKzJQdmCs_bLFIhHcr_jpVRPayTZtWc7g/getUpdates "HTTP/1.1 200 OK"
+2026-11-11 16:16:40,459 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot9151651281:AAEKzJQdmCs_bLFIhHcr_jpVRPayTZtWc7g/getUpdates "HTTP/1.1 200 OK"
+2026-11-11 16:16:51,049 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot9151651281:AAEKzJQdmCs_bLFIhHcr_jpVRPayTZtWc7g/getUpdates "HTTP/1.1 200 OK"
+2026-11-11 16:17:01,361 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot9151651281:AAEKzJQdmCs_bLFIhHcr_jpVRPayTZtWc7g/getUpdates "HTTP/1.1 200 OK"
+2026-11-11 16:17:52,679 - database - INFO - Database initialized successfully at bot_data.db
+2026-11-11 16:18:30,684 - database - INFO - Database initialized successfully at bot_data.db
+2026-11-11 16:18:31,590 - __main__ - INFO - Starting Telegram Star Pin Bot polling...
+2026-11-11 16:18:33,058 - __main__ - INFO - Bot commands menu registered for @GramsGc_PinRobot
+2026-11-11 16:18:33,059 - __main__ - INFO - Auto-unpin background worker started.
+2026-11-11 16:18:33,061 - __main__ - INFO - 5-minute cycle reminder worker started.
+2026-11-11 16:18:33,603 - telegram.ext.Application - INFO - Application started
+2026-11-11 16:20:35,368 - database - INFO - Database initialized successfully at bot_data.db
+2026-11-11 16:20:36,581 - __main__ - INFO - Starting Telegram Star Pin Bot polling...
+2026-11-11 16:21:08,398 - database - INFO - Database initialized successfully at bot_data.db
+2026-11-11 16:21:09,642 - bot - INFO - Starting Telegram Star Pin Bot polling...
+2026-11-11 16:21:11,610 - bot - INFO - Bot commands menu registered for @GramsGc_PinRobot
+2026-11-11 16:21:11,610 - bot - INFO - Auto-unpin background worker started.
+2026-11-11 16:21:11,614 - bot - INFO - 5-minute cycle reminder worker started.
+2026-11-11 16:21:11,959 - telegram.ext.Application - INFO - Application started
+2026-11-11 16:21:50,077 - database - INFO - Database initialized successfully at bot_data.db
+2026-11-11 16:21:51,027 - __main__ - INFO - Starting Telegram Star Pin Bot polling...
+2026-11-11 16:21:52,480 - __main__ - INFO - Bot commands menu registered for @GramsGc_PinRobot
+2026-11-11 16:21:52,480 - __main__ - INFO - Auto-unpin background worker started.
+2026-11-11 16:21:52,485 - __main__ - INFO - 5-minute cycle reminder worker started.
+2026-11-11 16:21:52,747 - telegram.ext.Application - INFO - Application started
+2026-11-11 16:27:16,521 - database - INFO - Database initialized successfully at bot_data.db
+2026-11-11 16:27:18,104 - __main__ - INFO - Starting Telegram Star Pin Bot polling...
+2026-11-11 16:27:19,438 - __main__ - INFO - Bot commands menu registered for @GramsGc_PinRobot
+2026-11-11 16:27:19,439 - __main__ - INFO - Auto-unpin background worker started.
+2026-11-11 16:27:19,442 - __main__ - INFO - 5-minute cycle reminder worker started.
+2026-11-11 16:27:19,674 - telegram.ext.Application - INFO - Application started
+2026-11-11 16:33:16,186 - database - INFO - Database initialized successfully at bot_data.db
+2026-11-11 16:33:18,280 - __main__ - INFO - Starting Telegram Star Pin Bot polling...
+2026-11-11 16:33:51,990 - database - INFO - Database initialized successfully at bot_data.db
+2026-11-11 16:33:53,665 - bot - INFO - Starting Telegram Star Pin Bot polling...
+2026-11-11 16:33:55,260 - bot - INFO - Bot commands menu registered for @GramsGc_PinRobot
+2026-11-11 16:33:55,261 - bot - INFO - Auto-unpin background worker started.
+2026-11-11 16:33:55,266 - bot - INFO - 5-minute cycle reminder worker started.
+2026-11-11 16:33:55,515 - telegram.ext.Application - INFO - Application started
+2026-11-11 16:34:00,207 - database - INFO - Database initialized successfully at bot_data.db
+2026-11-11 16:34:23,339 - database - INFO - Database initialized successfully at bot_data.db
+2026-11-11 16:34:25,190 - __main__ - INFO - Starting Telegram Star Pin Bot polling...
+2026-11-11 16:34:26,939 - __main__ - INFO - Bot commands menu registered for @GramsGc_PinRobot
+2026-11-11 16:34:26,940 - __main__ - INFO - Auto-unpin background worker started.
+2026-11-11 16:34:26,944 - __main__ - INFO - 5-minute cycle reminder worker started.
+2026-11-11 16:34:27,215 - telegram.ext.Application - INFO - Application started
