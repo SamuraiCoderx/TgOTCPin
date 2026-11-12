@@ -58,7 +58,15 @@ import traceback
 import os
 import threading
 from http.server import HTTPServer, BaseHTTPRequestHandler
+from flask import Flask
+from threading import Thread
 
+app = Flask(name)
+
+
+@app.route("/")
+def home():
+    return "Bot is alive"
 class HealthHandler(BaseHTTPRequestHandler):
     def do_GET(self):
         self.send_response(200)
