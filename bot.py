@@ -256,4 +256,16 @@ def main() -> None:
 
 
 if __name__ == "__main__":
-    main()
+    Thread(
+        target=lambda: app.run(host="0.0.0.0", port=8080, use_reloader=False),
+        daemon=True,
+    ).start()
+
+    while True:
+        try:
+            main()
+        except Exception as e:
+            logger.exception("Bot crashed, restarting in 5 seconds...")
+            import time
+
+            time.sleep(5)
